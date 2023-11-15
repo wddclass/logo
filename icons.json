@@ -1,0 +1,14 @@
+{
+    "name": "danceC Icons",
+    "description": "鸡肠和Emby常用图标",
+    "icons": [
+        {
+            "name": "SYN",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/SYN.png"
+        },
+        {
+            "name": "SYN1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/SYN1.png"
+        }
+    ]
+}
