@@ -13,6 +13,10 @@
         {
             "name": "PandaTV1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/PandaTV1.png"
+        },
+        {
+            "name": "Cherry",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/Cherry.png"
         }
     ]
 }
