@@ -9,6 +9,10 @@
         {
             "name": "SYN1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/SYN1.png"
+        },
+        {
+            "name": "PandaTV",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/PandaTV.png"
         }
     ]
 }
