@@ -1,6 +1,6 @@
 {
     "name": "danceC Icons",
-    "description": "鸡肠和Emby常用图标",
+    "description": "鸡肠、Emby和服务常用图标",
     "icons": [
         {
             "name": "SYN",
@@ -21,6 +21,10 @@
         {
             "name": "18+",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/18+.png"
+        },
+        {
+            "name": "Copilot",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/Copilot.png"
         }
     ]
 }
