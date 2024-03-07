@@ -29,6 +29,10 @@
         {
             "name": "x0",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/x0.png"
+        },
+        {
+            "name": "MiCu",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/micu.png"
         }
     ]
 }
