@@ -33,6 +33,10 @@
         {
             "name": "MiCu",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/micu.png"
+        },
+        {
+            "name": "LyreBird",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/LyreBird.png"
         }
     ]
 }
