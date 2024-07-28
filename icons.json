@@ -73,6 +73,10 @@
         {
             "name": "elegant",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/elegant.png"
+        },
+        {
+            "name": "elegant1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/elegant1.png"
         }
     ]
 }
