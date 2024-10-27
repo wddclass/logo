@@ -81,6 +81,26 @@
         {
             "name": "ciji",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/ciji.jpeg"
+        },
+        {
+            "name": "alpha",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/alpha.jpeg"
+        },
+        {
+            "name": "feiyue_sfcj",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/feiyue_sfcj.jpeg"
+        },
+        {
+            "name": "fych_rainbow",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/fych_rainbow.jpeg"
+        },
+        {
+            "name": "fyyh_feiyue_series",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/fyyh_feiyue_series.jpeg"
+        },
+        {
+            "name": "mogu_mooguu",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/mogu_mooguu.jpeg"
         }
     ]
 }
