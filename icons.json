@@ -105,6 +105,22 @@
         {
             "name": "awa",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/awa.jpeg"
+        },
+        {
+            "name": "hka",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/hka.jpeg"
+        },
+        {
+            "name": "mooncake",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/mooncake.jpeg"
+        },
+        {
+            "name": "nanflix",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/nanflix.jpeg"
+        },
+        {
+            "name": "yingyue",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/yingyue.jpg"
         }
     ]
 }
