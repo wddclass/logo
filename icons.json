@@ -177,6 +177,14 @@
         {
             "name": "temby1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/temby1.png"
+        },
+        {
+            "name": "awa_private",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/awa_private.jpeg"
+        },
+        {
+            "name": "awa_private1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/awa_private1.png"
         }
     ]
 }
