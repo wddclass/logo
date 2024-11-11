@@ -87,44 +87,96 @@
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/alpha.jpeg"
         },
         {
+            "name": "alpha1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/alpha1.png"
+        },
+        {
             "name": "feiyue_sfcj",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/feiyue_sfcj.jpeg"
+        },
+        {
+            "name": "feiyue_sfcj1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/feiyue_sfcj1.png"
         },
         {
             "name": "fych_rainbow",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/fych_rainbow.jpeg"
         },
         {
+            "name": "fych_rainbow1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/fych_rainbow1.png"
+        },
+        {
             "name": "fyyh_feiyue_series",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/fyyh_feiyue_series.jpeg"
+        },
+        {
+            "name": "fyyh_feiyue_series1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/fyyh_feiyue_series1.png"
         },
         {
             "name": "mogu_mooguu",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/mogu_mooguu.jpeg"
         },
         {
+            "name": "mogu_mooguu1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/mogu_mooguu1.png"
+        },
+        {
             "name": "awa",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/awa.jpeg"
+        },
+        {
+            "name": "awa1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/awa1.png"
         },
         {
             "name": "hka",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/hka.jpeg"
         },
         {
+            "name": "hka1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/hka1.png"
+        },
+        {
             "name": "mooncake",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/mooncake.jpeg"
+        },
+        {
+            "name": "mooncake1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/mooncake1.png"
         },
         {
             "name": "nanflix",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/nanflix.jpeg"
         },
         {
+            "name": "nanflix1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/nanflix1.png"
+        },
+        {
             "name": "yingyue",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/yingyue.jpg"
         },
         {
+            "name": "yingyue1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/yingyue1.png"
+        },
+        {
             "name": "sut",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/sut.jpeg"
+        },
+        {
+            "name": "sut1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/sut1.png"
+        },
+        {
+            "name": "temby",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/temby.jpeg"
+        },
+        {
+            "name": "temby1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/temby1.png"
         }
     ]
 }
