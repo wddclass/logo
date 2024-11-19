@@ -185,6 +185,14 @@
         {
             "name": "awa_private1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/awa_private1.png"
+        },
+        {
+            "name": "e",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/e.jpeg"
+        },
+        {
+            "name": "e1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/e1.png"
         }
     ]
 }
