@@ -205,6 +205,14 @@
         {
             "name": "siesta1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/siesta1.png"
+        },
+        {
+            "name": "aurora",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/aurora.jpeg"
+        },
+        {
+            "name": "aurora1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/aurora1.png"
         }
     ]
 }
