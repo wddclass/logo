@@ -221,6 +221,30 @@
         {
             "name": "aurora1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/aurora1.png"
+        },
+        {
+            "name": "saturday.lite",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/saturday.lite.jpeg"
+        },
+        {
+            "name": "saturday.lite1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/saturday.lite1.png"
+        },
+        {
+            "name": "ask-universal",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/ask-universal.jpeg"
+        },
+        {
+            "name": "ask-universal1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/ask-universal1.png"
+        },
+        {
+            "name": "qdz",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/qdz.jpeg"
+        },
+        {
+            "name": "qdz1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/qdz1.png"
         }
     ]
 }
