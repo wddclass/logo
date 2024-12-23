@@ -245,6 +245,14 @@
         {
             "name": "qdz1",
             "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/qdz1.png"
+        },
+        {
+            "name": "vtg",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/vtg.jpeg"
+        },
+        {
+            "name": "vtg1",
+            "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/vtg1.png"
         }
     ]
 }
