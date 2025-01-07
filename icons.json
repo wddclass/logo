@@ -3,6 +3,10 @@
     "description": "鸡肠、Emby和服务常用图标，部分搬运twoz",
     "icons": [
       {
+        "name": "aifun",
+        "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/aifun.png"
+      },
+      {
         "name": "vtg",
         "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/vtg.jpeg"
       },
