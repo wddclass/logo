@@ -3,6 +3,14 @@
     "description": "鸡肠、Emby和服务常用图标，部分搬运twoz",
     "icons": [
       {
+        "name": "kiku1",
+        "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/kiku1.png"
+      },
+      {
+        "name": "kiku",
+        "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/kiku.jpeg"
+      },
+      {
         "name": "alphaio p",
         "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/alphaio-preview.png"
       },
