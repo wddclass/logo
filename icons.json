@@ -3,6 +3,14 @@
     "description": "鸡肠、Emby和服务常用图标，部分搬运twoz",
     "icons": [
       {
+        "name": "doubon1",
+        "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/doubon1.png"
+      },
+      {
+        "name": "doubon",
+        "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/doubon.jpeg"
+      },
+      {
         "name": "kiku1",
         "url": "https://raw.githubusercontent.com/wddclass/logo/main/file/kiku1.png"
       },
